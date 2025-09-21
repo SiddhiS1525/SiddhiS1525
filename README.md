@@ -1,66 +1,37 @@
-# 📱 Civic Issue Reporting System  
 
-![Project Banner](https://via.placeholder.com/1200x300.png?text=Civic+Issue+Reporting+System)  
+# 👋 Hi, I'm Siddhi Suryawanshi  
 
-> "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson  
+<img src="https://github.com/yourusername/yourusername/blob/main/profile.jpg" alt="Siddhi Suryawanshi" width="200" align="right" />
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
 
 ---
 
 ## 🚀 Tech Stack  
-- **Frontend:** React Native / Flutter (Mobile), React (Web)  
-- **Backend:** Node.js + Express  
-- **Database:** MongoDB / PostgreSQL  
-- **Cloud & Hosting:** AWS / Firebase  
-- **Other:** REST APIs, WebSockets (for real-time updates), Map APIs (Google Maps / Leaflet)  
+- **Languages:** Java, JavaScript, Python  
+- **Frontend:** React, React Native  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB, MySQL  
+- **Tools & Cloud:** Git, GitHub, Firebase, AWS  
 
 ---
 
-## 📸 About the Project  
-The Civic Issue Reporting System enables citizens to report city issues with:  
-- Real-time photo uploads  
-- Automatic location tagging  
-- Short text/voice explanations  
-- Interactive city maps  
-
-Administrators get:  
-- A centralized dashboard  
-- Filtering, categorization, and routing of reports  
-- Scalable architecture for peak usage  
+## 📸 About Me  
+💡 Passionate about building impactful digital solutions  
+📱 Interested in Mobile & Web App Development  
+⚡ Exploring AI/ML & scalable system architectures  
 
 ---
 
-## 🧑‍💻 Author  
-**Your Name**  
-
+## 🔗 Connect with Me  
 - 🌐 [My Resume](https://your-resume-link.com)  
 - 🐙 [GitHub](https://github.com/yourusername)  
 - 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
 
 ---
 
-## ⚡ Quick Start  
-```bash
-# Clone repo
-git clone https://github.com/yourusername/civic-reporting-system.git  
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
 
-# Install dependencies
-npm install  
-
-# Run development server
-npm start  
-
-
-<!--
-**SiddhiS1525/SiddhiS1525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
